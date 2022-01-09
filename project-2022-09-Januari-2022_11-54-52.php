@@ -1,7 +1,7 @@
 <?php
 
-$var1 = 1916146784;
-$var2 = 1940007000;
+$var1 = 1226923127;
+$var2 = 1521993128;
 $hasil = $var1 + $var2;
 echo "maka hasil dari $var1 + $var2 = $hasil";
 ?>
